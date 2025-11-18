@@ -132,3 +132,12 @@ Livrables : Alertes, dashboards, métriques
 
 Durée estimée : Continu
 
+
+# Diagramme du cycle de vie DevOps
+
+
+
+!\[Cycle DevOps](./exercice-3-cycle-de-vie.png)
+
+
+
